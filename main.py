@@ -15,7 +15,7 @@ class Listener(tweepy.streaming.StreamListener):
     def on_error(self, status):
         print(status)
 
-class ZorkBot(object):
+class Frobot(object):
     def __init__(self):
         self.api = None
         self.authenticate()
@@ -24,6 +24,5 @@ class ZorkBot(object):
         auth.set_access_token(aToken, aSecret)
         self.api = tweepy.API(auth)
 
-
 if __name__ == '__main__':
-    ZorkBot()
+    Frobot()
