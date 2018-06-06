@@ -1,0 +1,43 @@
+CHALMERS: Well, Seymour, I made it... despite your directions.
+SKINNER: Ah, Superintendent Chalmers! Welcome! I hope you're prepared for an unforgettable luncheon!
+CHALMERS: Uhh...
+SKINNER: [gasp] Oh egads, my roast is ruined! But what if... I were to purchase fast food and disguise it as my own cooking? [to himself] Oh ho ho ho ho... delightfully devilish, Seymour!
+CHALMERS: Uh-
+[cue song]
+Skinner with his crazy explanations,
+The superintendent's gonna need his medication,
+When he hears Skinner's lame exaggerations,
+There'll be trouble in town tonight!
+[end of song]
+CHALMERS: Seymour!
+SKINNER: Superintendent, I was just, uh... just stretching my calves on the windowsill. Isometric exercise! Care to join me?
+CHALMERS: Why is there smoke coming out of your oven, Seymour?
+SKINNER: Uhh... no! That isn't smoke. It's steam. Steam from the steamed clams we're having! Mmm... steamed clams! [beat] Ooh...
+[a few moments later]
+SKINNER: Superintendent, I hope you're ready for mouthwatering hamburgers!
+CHALMERS: I thought we were having steamed clams.
+SKINNER: D'oh, no. I said steamed hams! That's what I call hamburgers!
+CHALMERS: You call hamburgers "steamed hams?"
+SKINNER: Yes. It's a regional dialect!
+CHALMERS: Uh-huh... uh, what region?
+SKINNER: Uhh... upstate New York?
+CHALMERS: Really? Well, I'm from Utica, and I've never heard anyone use the phrase "steamed hams."
+SKINNER: Oh, not in Utica, no. It's an Albany expression.
+CHALMERS: I see. [beat] You know, these hamburgers are quite similar to the ones they have at Krusty Burger.
+SKINNER: Oh ho ho ho... no, patented Skinner burgers. Old family recipe.
+CHALMERS: For steamed hams?
+SKINNER: Yes.
+CHALMERS: Yeah, so you call them "steamed hams" despite the fact they are obviously grilled.
+SKINNER: Ye- hey- you know, the- one thing I should- excuse me for one second.
+CHALMERS: Of course.
+SKINNER: [YAWN] Well, that was wonderful. A good time was had by all, I'm pooped.
+CHALMERS: Yes, I should be- Good Lord, what is happening in there!?
+SKINNER: Aurora borealis?
+CHALMERS: Uh- aurora borealis!? At this time of year, at this time of day, in this part of the country, localized entirely within your kitchen!?
+SKINNER: Yes!
+CHALMERS: May I see it?
+SKINNER: No.
+SKINNER'S MOTHER: Seymour, the house is on fire!
+SKINNER: No, mother—it's just the northern lights!
+CHALMERS: Well, Seymour, you are an odd fellow, but I must say... you steam a good ham.
+SKINNER'S MOTHER: Help! Help!
